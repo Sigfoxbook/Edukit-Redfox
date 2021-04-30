@@ -1,1 +1,1 @@
-# Repositório de arquivos da PlacaEdukit-Redfox
+# Repositório de arquivos da Placa Edukit-Redfox
